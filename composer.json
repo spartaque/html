@@ -9,9 +9,9 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/http": "~5.0",
-        "illuminate/session": "~5.0",
-        "illuminate/support": "~5.0"
+        "illuminate/http": "~5.2",
+        "illuminate/session": "~5.2",
+        "illuminate/support": "~5.2"
     },
     "autoload": {
         "psr-4": {
